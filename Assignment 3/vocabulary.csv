@@ -1,0 +1,6 @@
+What is the default access specifier for class members?,private
+What is the default access specifier for struct members?,public
+What is cin?,object
+What is the appropriate delete operator usage for the expression 'ptr=new int[100]'?,delete[] ptr
+What is the pointer which always stores the current active object address?,this
+In which scope is a protected member of the class accessible?,same class and derived class
